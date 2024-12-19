@@ -1,0 +1,14 @@
+D:\НАВЧАННЯ\ООП\ІНДЗ\bin\Debug\net9.0\ІНДЗ.exe
+D:\НАВЧАННЯ\ООП\ІНДЗ\bin\Debug\net9.0\ІНДЗ.deps.json
+D:\НАВЧАННЯ\ООП\ІНДЗ\bin\Debug\net9.0\ІНДЗ.runtimeconfig.json
+D:\НАВЧАННЯ\ООП\ІНДЗ\bin\Debug\net9.0\ІНДЗ.dll
+D:\НАВЧАННЯ\ООП\ІНДЗ\bin\Debug\net9.0\ІНДЗ.pdb
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.AssemblyInfoInputs.cache
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.AssemblyInfo.cs
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.dll
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\refint\ІНДЗ.dll
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.pdb
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ІНДЗ.genruntimeconfig.cache
+D:\НАВЧАННЯ\ООП\ІНДЗ\obj\Debug\net9.0\ref\ІНДЗ.dll
